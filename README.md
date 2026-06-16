@@ -6,8 +6,8 @@ kanagawa.nvim
 https://github.com/rebelot/kanagawa.nvim
 
 ## plugins
-- autopairs.lua
-- hlchunk.lua
-- satellite.lua
-- toggleterm.lua
-- treesitter.lua
+- autopairs
+- hlchunk
+- satellite
+- toggleterm
+- treesitter
